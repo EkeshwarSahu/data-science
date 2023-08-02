@@ -34,9 +34,12 @@ By completing this project, I gained valuable experience in data analysis, stati
 
 2. [Telecom Churning].(https://github.com/EkeshwarSahu/data-science/blob/main/ML%20Projects/TelecomChurning.ipynb)
 
-   Customer Retention Modelling and Strategy for Telecom Sector.
+- Customer Retention Modelling and Strategy for Telecom Sector.
+- Performed feature engineering to determine the most important features affecting the churn rate. 
+- Analyzed the correlation between different metrics. 
+- Determined feature importance using tree-based models.
 
-3. [Customer Service Requests Analysis].(https://github.com/EkeshwarSahu/data-science/blob/main/ML%20Projects/Customer_Service_Requests_Analysis.ipynb)
+4. [Customer Service Requests Analysis].(https://github.com/EkeshwarSahu/data-science/blob/main/ML%20Projects/Customer_Service_Requests_Analysis.ipynb)
 
    
 Project Description
