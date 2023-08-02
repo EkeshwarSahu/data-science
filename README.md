@@ -31,3 +31,7 @@ Explored the results using correlation analysis and logistic regression for feat
 Leveraged standard error and p-values from statsmodels to assess the significance of features.
 
 By completing this project, I gained valuable experience in data analysis, statistical exploration, and machine learning techniques for predicting cardiovascular disease. The project demonstrates my ability to work with real-world datasets, handle data preprocessing challenges, and build predictive models to solve practical problems.
+
+2. [Telecom Churning].(https://github.com/EkeshwarSahu/data-science/blob/main/ML%20Projects/TelecomChurning.ipynb)
+
+   Customer Retention Modelling and Strategy for Telecom Sector.
