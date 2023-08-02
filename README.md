@@ -36,7 +36,7 @@ By completing this project, I gained valuable experience in data analysis, stati
 
    Customer Retention Modelling and Strategy for Telecom Sector.
 
-3. [Customer Service Requests Analysis].()
+3. [Customer Service Requests Analysis].(https://github.com/EkeshwarSahu/data-science/blob/main/ML%20Projects/Customer_Service_Requests_Analysis.ipynb)
 
    
 Project Description
