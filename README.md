@@ -33,8 +33,7 @@ Leveraged standard error and p-values from statsmodels to assess the significanc
 By completing this project, I gained valuable experience in data analysis, statistical exploration, and machine learning techniques for predicting cardiovascular disease. The project demonstrates my ability to work with real-world datasets, handle data preprocessing challenges, and build predictive models to solve practical problems.
 
 2. [Telecom Churning].(https://github.com/EkeshwarSahu/data-science/blob/main/ML%20Projects/TelecomChurning.ipynb)
-
-- Customer Retention Modelling and Strategy for Telecom Sector.
+- Telecom churn analysis to determine if the customer from that particular telecom industry will leave that telecom service or not.
 - Performed feature engineering to determine the most important features affecting the churn rate. 
 - Analyzed the correlation between different metrics. 
 - Determined feature importance using tree-based models.
