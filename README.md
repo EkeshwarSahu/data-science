@@ -1,5 +1,5 @@
 # data-science projects
-- 1. [Healthcare].(https://github.com/EkeshwarSahu/data-science/blob/main/ML%20Projects/Healthcare.ipynb) 
+1. [Healthcare].(https://github.com/EkeshwarSahu/data-science/blob/main/ML%20Projects/Healthcare.ipynb) 
 
 
 - Project Description:
@@ -32,14 +32,14 @@ Leveraged standard error and p-values from statsmodels to assess the significanc
 
 By completing this project, I gained valuable experience in data analysis, statistical exploration, and machine learning techniques for predicting cardiovascular disease. The project demonstrates my ability to work with real-world datasets, handle data preprocessing challenges, and build predictive models to solve practical problems.
 
-- 2. [Telecom Churning].(https://github.com/EkeshwarSahu/data-science/blob/main/ML%20Projects/TelecomChurning.ipynb)
+2. [Telecom Churning].(https://github.com/EkeshwarSahu/data-science/blob/main/ML%20Projects/TelecomChurning.ipynb)
 
 - Customer Retention Modelling and Strategy for Telecom Sector.
 - Performed feature engineering to determine the most important features affecting the churn rate. 
 - Analyzed the correlation between different metrics. 
 - Determined feature importance using tree-based models.
 
-- 3. [Customer Service Requests Analysis].(https://github.com/EkeshwarSahu/data-science/blob/main/ML%20Projects/Customer_Service_Requests_Analysis.ipynb)
+3. [Customer Service Requests Analysis].(https://github.com/EkeshwarSahu/data-science/blob/main/ML%20Projects/Customer_Service_Requests_Analysis.ipynb)
 
    
 - Project Description
